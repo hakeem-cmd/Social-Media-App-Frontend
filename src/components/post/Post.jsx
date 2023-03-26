@@ -24,7 +24,7 @@ const Post = () => {
       </div>
       <div className="postCenter">
         <span className="postText">First Post made by dall-e</span>
-        <img className="postImg" src="assets/Fotor_AI2.png" alt="" />
+        <img className="postImg" src="assets/Fotor_AI4.png" alt="" />
       </div>
       <div className="postBottom">
         <div className="postBottomLeft">
